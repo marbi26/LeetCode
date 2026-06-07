@@ -40,17 +40,6 @@ LeetCode/
 └── Miscellaneous/
 ```
 
-## Solution Format
-
-Each solution includes:
-
-* Problem Name
-* LeetCode Problem Number
-* Approach / Explanation
-* Time Complexity
-* Space Complexity
-* Clean and optimized code
-
 ## Progress
 
 * Total Problems Solved: Updating Regularly
